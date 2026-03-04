@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+
+  # This is the key:
+  # If the request is NOT for an existing file...
+  RewriteCond %{REQUEST_FILENAME} !-f
+  # and NOT for an existing directory...
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  # ...then redirect it to index.html (your React app)
+  RewriteRule . /index.html [L]
+</IfModule>

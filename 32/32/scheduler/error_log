@@ -1,0 +1,424 @@
+[22-Oct-2025 20:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 48
+[22-Oct-2025 20:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 48
+[22-Oct-2025 20:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 48
+[22-Oct-2025 20:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 48
+[22-Oct-2025 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/events.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 86
+[22-Oct-2025 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/events.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 86
+[22-Oct-2025 20:47:59 UTC] PHP Warning:  require_once(header_bangla.php): failed to open stream: No such file or directory in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:47:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'header_bangla.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:48:03 UTC] PHP Warning:  require_once(header_bangla.php): failed to open stream: No such file or directory in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:48:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'header_bangla.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:48:16 UTC] PHP Warning:  require_once(header_bangla.php): failed to open stream: No such file or directory in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:48:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'header_bangla.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fnabd/public_html/scheduler.fnabd.biz/dashboard.php on line 3
+[22-Oct-2025 20:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 20:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/events.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 86
+[22-Oct-2025 20:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/events.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 86
+[22-Oct-2025 21:06:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:06:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 33
+[22-Oct-2025 21:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 21:07:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 21:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/view_event.php on line 24
+[22-Oct-2025 21:14:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 33
+[22-Oct-2025 21:15:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 21:18:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 33
+[22-Oct-2025 21:21:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 43
+[22-Oct-2025 21:22:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 21:22:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 43
+[22-Oct-2025 22:07:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 22:07:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:106) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 43
+[22-Oct-2025 22:10:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 43
+[22-Oct-2025 22:11:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:11:57 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:01 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:06 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:11 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:14 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:14 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:15 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:15 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:16 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:12:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:12:35 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:13:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:13:00 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:13:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:13:01 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:14:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:14:53 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:16:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:16:13 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:16:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:16:15 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:16:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:16:16 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:16:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 23
+[22-Oct-2025 22:16:17 UTC] Database connection failed: Access denied for user 'fnabd_scheduler_admin'@'localhost' (using password: YES)
+[22-Oct-2025 22:16:55 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:16:57 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:17:08 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:17:10 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:17:11 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:17:26 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:17:27 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:18:01 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php on line 17
+[22-Oct-2025 22:22:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 22:23:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/add_event.php on line 43
+[22-Oct-2025 22:24:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 22:24:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 22:25:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/events.php on line 16
+[22-Oct-2025 22:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 126
+[22-Oct-2025 22:45:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[22-Oct-2025 22:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[23-Oct-2025 09:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[23-Oct-2025 09:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 87
+[23-Oct-2025 09:54:49 UTC] Failed to prepare statement (fetch pending): Unknown column 'full_name' in 'field list'
+[23-Oct-2025 09:54:49 UTC] Failed to prepare statement (fetch approved): Unknown column 'full_name' in 'field list'
+[23-Oct-2025 09:57:00 UTC] Failed to prepare statement (fetch pending): Unknown column 'full_name' in 'field list'
+[23-Oct-2025 09:57:00 UTC] Failed to prepare statement (fetch approved): Unknown column 'full_name' in 'field list'
+[23-Oct-2025 09:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 132
+[23-Oct-2025 09:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 132
+[23-Oct-2025 09:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 132
+[23-Oct-2025 09:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 132
+[23-Oct-2025 09:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 132
+[23-Oct-2025 10:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 105
+[23-Oct-2025 10:03:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 191
+[23-Oct-2025 10:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 105
+[23-Oct-2025 10:03:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 105
+[23-Oct-2025 10:03:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 191
+[23-Oct-2025 10:04:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/header.php:139) in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 191
+[23-Oct-2025 10:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 164
+[23-Oct-2025 10:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 131
+[23-Oct-2025 10:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 131
+[23-Oct-2025 10:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 131
+[23-Oct-2025 10:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/admin_approval.php on line 168
+[26-Oct-2025 09:26:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[26-Oct-2025 09:27:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[30-Oct-2025 15:32:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[30-Oct-2025 15:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[30-Oct-2025 15:32:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[30-Oct-2025 15:32:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[30-Oct-2025 15:32:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:07:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:16:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:16:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:17:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 129
+[01-Nov-2025 17:22:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:22:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:25:00 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 130
+[01-Nov-2025 17:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 135
+[01-Nov-2025 17:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:29:46 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:29:49 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:29:57 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:30:02 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:30:07 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:30:17 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 270
+[01-Nov-2025 17:33:30 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:33:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[01-Nov-2025 17:33:33 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:33:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[01-Nov-2025 17:33:33 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:33:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[01-Nov-2025 17:33:37 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:33:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[01-Nov-2025 17:33:45 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[01-Nov-2025 17:33:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 14:09:21 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 14:09:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 14:09:26 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 14:09:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 14:09:52 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 14:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 18:10:18 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 18:10:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 18:10:27 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 18:10:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[03-Nov-2025 18:11:02 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[03-Nov-2025 18:11:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:07:39 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:07:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:08:12 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:08:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:08:31 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:08:41 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:08:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:08:42 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:09:11 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:09:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:09:29 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:09:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:09:37 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:09:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:09:44 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:09:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:14:17 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:14:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:18:30 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:18:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:46:38 UTC] PHP Warning:  Undefined array key "login_identifier" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 96
+[04-Nov-2025 18:46:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 96
+[04-Nov-2025 18:48:29 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 132
+[04-Nov-2025 18:48:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fnabd/public_html/scheduler.fnabd.biz/db_connect.php:40) in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 136
+[04-Nov-2025 18:52:56 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 94
+[04-Nov-2025 18:52:56 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 94
+[04-Nov-2025 18:54:30 UTC] PHP Warning:  Undefined array key "email" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 92
+[04-Nov-2025 18:54:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 92
+[04-Nov-2025 18:59:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 18:59:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 18:59:42 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 18:59:42 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 18:59:49 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 18:59:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:00 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:07 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:07 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:16 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:00:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:01:53 UTC] PHP Warning:  Undefined array key "username" in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:01:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 93
+[04-Nov-2025 19:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:04:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:05:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:05:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:08:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:08:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:08:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:09:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved' in 'field list' in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php:100
+Stack trace:
+#0 /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php(100): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in /home/fnabd/public_html/scheduler.fnabd.biz/login_signup.php on line 100
+[04-Nov-2025 19:14:16 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:14:20 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:14:22 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:14:26 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:15:43 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:15:50 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:15:52 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:16:01 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:16:02 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:20:05 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:20:16 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:20:19 UTC] Headers already sent before session expired check in header_bangla.php
+[04-Nov-2025 19:56:57 UTC] Error deleting user ID 7: Unknown column 'creator_id' in 'where clause'
+[04-Nov-2025 19:57:03 UTC] Error deleting user ID 7: Unknown column 'creator_id' in 'where clause'
+[04-Nov-2025 19:57:10 UTC] Error deleting user ID 6: Unknown column 'creator_id' in 'where clause'
+[04-Nov-2025 19:57:44 UTC] Error deleting user ID 6: Unknown column 'creator_id' in 'where clause'
+[04-Nov-2025 20:03:53 UTC] Error deleting user ID 7: Unknown column 'creator_id' in 'where clause'
+[04-Nov-2025 20:48:29 UTC] Error deleting user ID 7: Unknown column 'creator_id' in 'where clause'
+[12-Nov-2025 19:31:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/bnp24/public_html/scheduler/db_connect.php:11
+Stack trace:
+#0 /home/bnp24/public_html/scheduler/db_connect.php(11): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'scheduler')
+#1 /home/bnp24/public_html/scheduler/login_signup.php(8): require_once('/home/bnp24/pub...')
+#2 {main}
+  thrown in /home/bnp24/public_html/scheduler/db_connect.php on line 11
+[12-Nov-2025 19:35:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bnp24_scheduler_user'@'localhost' (using password: YES) in /home/bnp24/public_html/scheduler/db_connect.php:11
+Stack trace:
+#0 /home/bnp24/public_html/scheduler/db_connect.php(11): mysqli->__construct('localhost', 'bnp24_scheduler...', Object(SensitiveParameterValue), 'bnp24_scheduler')
+#1 /home/bnp24/public_html/scheduler/login_signup.php(8): require_once('/home/bnp24/pub...')
+#2 {main}
+  thrown in /home/bnp24/public_html/scheduler/db_connect.php on line 11
+[12-Nov-2025 19:38:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bnp24_scheduler_user'@'localhost' (using password: YES) in /home/bnp24/public_html/scheduler/db_connect.php:11
+Stack trace:
+#0 /home/bnp24/public_html/scheduler/db_connect.php(11): mysqli->__construct('localhost', 'bnp24_scheduler...', Object(SensitiveParameterValue), 'bnp24_scheduler')
+#1 /home/bnp24/public_html/scheduler/login_signup.php(8): require_once('/home/bnp24/pub...')
+#2 {main}
+  thrown in /home/bnp24/public_html/scheduler/db_connect.php on line 11
+[16-Nov-2025 12:17:17 UTC] Headers already sent before login check in header.php
+[16-Nov-2025 12:17:17 UTC] Headers already sent before login check in header.php
+[16-Nov-2025 12:17:17 UTC] Headers already sent before login check in header.php

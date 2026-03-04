@@ -1,0 +1,35 @@
+[20-Nov-2025 12:19:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:19:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:19:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:20:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:20:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:21:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
+[20-Nov-2025 12:22:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'url' at row 1 in /home/Nomanhaque24/public_html/admin/press.php:18
+Stack trace:
+#0 /home/Nomanhaque24/public_html/admin/press.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/Nomanhaque24/public_html/admin/press.php on line 18
